@@ -12,7 +12,7 @@ function InicioDeSecion() {
         </div>
         <div>
           <label>contraseña</label>
-          <input id="part2-1" type="email" required></input>
+          <input id="part2-1" type="password" required></input>
         </div>
         <div>
           <button type="submit" id="part3-1">
